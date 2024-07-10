@@ -9,3 +9,4 @@ numpy
 ## Need to also run python -m nltk.downloader punkt
 nltk
 pretty_midi
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
